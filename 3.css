@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(43, 15, 41);
+   
+}
+.im1{
+    width: 70%;
+    height: 10%;
+    margin:50px 200px ;
+    border: 50px white;
+    border-radius: 30px;
+}
+.im2{
+    width: 70%;
+    height: 10%;
+    margin:50px 200px ;
+    border: 50px white;
+    border-radius: 30px;
+}
+.txt1{
+    margin: 45px 500px;
+    color: white;
+    width: 50%;
+}
+.txt2{
+    margin: 40px 570px;
+    color: white;
+    width: 50%;
+}
+
+.logo1{
+    margin: 10px 10px;
+    color: white;
+}
+.logo2{
+    color: white;
+    margin: 0 20px;
+}
+div {
+    background-color:rgb(22, 5, 14);
+    padding: 10px 50px;
+}
+nav{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    margin: auto;
+}
+nav ul li{
+    display: inline-block;
+    margin: 0 6px;
+
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}

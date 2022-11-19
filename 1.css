@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(43, 15, 41);
+}
+.logo1{
+    color: white;
+    margin: 10px 10px;
+}
+.logo2{
+    color: white;
+    margin: 0 20px;
+
+}
+.a{
+    background-color:rgb(22, 5, 14);
+
+}
+.b{
+    margin: 100px 100px;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    
+}
+.contan{
+    width: 80%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.1);
+    margin-left: 145px;
+    border-radius: 30px;
+}
+nav{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    margin: auto;
+}
+nav ul li{
+    display: inline-block;
+    margin: 0 6px;
+
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+.img1{
+    width: 70%;
+    height: 10%;
+    margin: 45px 200px;
+border-radius: 30px;
+}

@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(43, 15, 41);
+}
+label{
+    color: white;
+    font-size: 30px;
+}
+.a{
+    margin: 200px 400px;
+    background-color: rgba(255, 255, 255, 0.1);
+    width: 400px;
+    height: 400px;
+    border-radius: 30px;
+}
+.b{
+    margin: 50px 100px;
+}
+.c{
+    margin: 50px 60px;
+    color:white;
+}
+input{
+    background-color: rgba(43, 15, 41, 0.3);
+    border-color: white;
+    color: white;
+}
+h1{
+    color: white;
+    margin: 0 150px;
+}
